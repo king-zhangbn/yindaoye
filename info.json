@@ -1,0 +1,436 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.thyuu.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 44110,
+            "children": [
+                {
+                    "url": "https://cravatar.cn/avatar/?s=32&r=g",
+                    "path": "img/avatar.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/73f4119865481f4745131f2ee9490325?s=48&r=g",
+                    "path": "img/73f4119865481f4745131f2ee9490325.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/f7e2bf9d1e7a418e4e6a30bc24c727d6?s=48&r=g",
+                    "path": "img/f7e2bf9d1e7a418e4e6a30bc24c727d6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/31bb10a8be0ae901b01fdbf5bf6b921f?s=48&r=g",
+                    "path": "img/31bb10a8be0ae901b01fdbf5bf6b921f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/8546cf1694037de5905abc62aeadf5e9?s=48&r=g",
+                    "path": "img/8546cf1694037de5905abc62aeadf5e9.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/7f037a4674a363c65e07b1f2853091a9?s=48&r=g",
+                    "path": "img/7f037a4674a363c65e07b1f2853091a9.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2022/06/2022061011452163.jpg!webp",
+                    "path": "img/2022061011452163.webp",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2022/06/2022060801504749.jpg!webp",
+                    "path": "img/2022060801504749.webp",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2022/01/2022011301462560.png!webp",
+                    "path": "img/2022011301462560.webp",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/travelling.gif",
+                    "path": "img/travelling.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/wormhole_2.gif",
+                    "path": "img/wormhole_2.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/seal.svg",
+                    "path": "img/seal.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/foreverblog-zh.svg",
+                    "path": "img/foreverblog-zh.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/uss-logo.svg",
+                    "path": "img/uss-logo.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/icon/1-1.png",
+                    "path": "img/1-1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/icp.png",
+                    "path": "img/icp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/thyuu/logo/gongan.png",
+                    "path": "img/gongan.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/?s=64&r=g",
+                    "path": "img/avatar_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/73f4119865481f4745131f2ee9490325?s=96&r=g",
+                    "path": "img/73f4119865481f4745131f2ee9490325_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/f7e2bf9d1e7a418e4e6a30bc24c727d6?s=96&r=g",
+                    "path": "img/f7e2bf9d1e7a418e4e6a30bc24c727d6_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/31bb10a8be0ae901b01fdbf5bf6b921f?s=96&r=g",
+                    "path": "img/31bb10a8be0ae901b01fdbf5bf6b921f_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/8546cf1694037de5905abc62aeadf5e9?s=96&r=g",
+                    "path": "img/8546cf1694037de5905abc62aeadf5e9_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cravatar.cn/avatar/7f037a4674a363c65e07b1f2853091a9?s=96&r=g",
+                    "path": "img/7f037a4674a363c65e07b1f2853091a9_1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89521,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+                    "path": "js/jquery-migrate.min.js",
+                    "saved": true,
+                    "size": 11224,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/js-sdk-pro.min.js",
+                    "path": "js/js-sdk-pro.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://sdk.51.la/perf/js-sdk-perf.min.js",
+                    "path": "js/js-sdk-perf.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
+                    "path": "js/regenerator-runtime.min.js",
+                    "saved": true,
+                    "size": 6475,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+                    "path": "js/wp-polyfill.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 9720,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/plugins/wp-douban-master/assets/js/db.min.js?ver=4.0.10",
+                    "path": "js/db.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4",
+                    "path": "js/imagesloaded.min.js",
+                    "saved": true,
+                    "size": 5629,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/js/masonry.min.js?ver=4.2.2",
+                    "path": "js/masonry.min.js",
+                    "saved": true,
+                    "size": 24138,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/themes/THYUU/js/functions.js?ver=1.7",
+                    "path": "js/functions.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0",
+                    "path": "css/style.min.css",
+                    "saved": true,
+                    "size": 88867,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 2731,
+                    "children": []
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/plugins/wp-douban-master/assets/css/db.min.css?ver=4.0.10",
+                    "path": "css/db.min.css",
+                    "saved": true,
+                    "size": 6448,
+                    "children": [
+                        {
+                            "url": "https://www.thyuu.com/wp-content/plugins/wp-douban-master/assets/img/star.svg",
+                            "path": "img/star.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.thyuu.com/wp-content/plugins/wp-douban-master/assets/img/star-fill.svg",
+                            "path": "img/star-fill.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/themes/THYUU/fonts/fonts.css?ver=5.6",
+                    "path": "css/fonts.css",
+                    "saved": true,
+                    "size": 615,
+                    "children": [
+                        {
+                            "url": "https://www.oppo.com/content/dam/oppo/common/fonts/font2/new-font/OPPOSansOS2-5000-Medium.woff2",
+                            "path": "fonts/OPPOSansOS2-5000-Medium.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.oppo.com/content/dam/oppo/common/fonts/font2/new-font/OPPOSansOS2-5000-Regular.woff2",
+                            "path": "fonts/OPPOSansOS2-5000-Regular.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.thyuu.com/thyuu/fonts/Edo-SZ.woff2",
+                            "path": "fonts/Edo-SZ.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.thyuu.com/thyuu/fonts/YouSheBiaoTiHei-3500.woff2",
+                            "path": "fonts/YouSheBiaoTiHei-3500.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/themes/THYUU/icons/iconfont.css?ver=2.6",
+                    "path": "css/iconfont.css",
+                    "saved": true,
+                    "size": 2422,
+                    "children": [
+                        {
+                            "url": "https://www.thyuu.com/wp-content/themes/THYUU/icons/iconfont.woff2?t=1654943868657",
+                            "path": "fonts/iconfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.thyuu.com/wp-content/themes/THYUU/icons/iconfont.woff?t=1654943868657",
+                            "path": "fonts/iconfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.thyuu.com/wp-content/themes/THYUU/style.css?ver=5.0.430",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 69956,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-32x32.png",
+                    "path": "img/cropped-2021092712292759-32x32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-192x192.png",
+                    "path": "img/cropped-2021092712292759-192x192.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.thyuu.com/wp-content/uploads/2021/09/cropped-2021092712292759-180x180.png",
+                    "path": "img/cropped-2021092712292759-180x180.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-thyuu-com-f5yf5di",
+    "info": {
+        "remark": [],
+        "title": "风记星辰 · THYUU.COM",
+        "domain": "www.thyuu.com",
+        "origin": "https://www.thyuu.com",
+        "ip": "221.236.18.248",
+        "main": "index.html",
+        "url": "https://www.thyuu.com/",
+        "totalSize": "362 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.thyuu.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.thyuu.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "marco/2.16",
+                "date": "Sun, 19 Jun 2022 13:04:24 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "x-source": "C/200",
+                "cache-control": "no-store, no-cache, must-revalidate",
+                "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                "set-cookie": [
+                    "PHPSESSID=kohoer5lrsv11elmghtjse5vu1; path=/; secure; HttpOnly"
+                ],
+                "pragma": "no-cache",
+                "x-request-id": "d6bc5416e348317da9bc28391fe8f8d4",
+                "via": "S.mix-js-czx2-049, T.49.D, V.mix-js-czx2-046, T.1.D, M.ctn-sc-yan-003",
+                "strict-transport-security": "max-age=15552000"
+            }
+        },
+        "time": {
+            "start": "2022-06-19T13:04:21.826Z",
+            "end": "2022-06-19T13:04:56.767Z"
+        }
+    },
+    "options": {
+        "url": "https://www.thyuu.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
